@@ -17,6 +17,6 @@ friction = 0.2;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
-/// @DnDHash : 6DFCFC2A
+/// @DnDHash : 21CFE191
 /// @DnDArgument : "var" "directiontype"
 directiontype = 0;

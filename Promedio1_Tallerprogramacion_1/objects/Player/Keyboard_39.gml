@@ -27,7 +27,7 @@ phy_speed_x = 3;
 
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
-/// @DnDHash : 43309EF1
+/// @DnDHash : 1F65B674
 /// @DnDArgument : "var" "jumpcount"
 /// @DnDArgument : "op" "4"
 /// @DnDArgument : "value" "1"
@@ -35,8 +35,8 @@ if(jumpcount >= 1)
 {
 	/// @DnDAction : YoYo Games.Instances.Set_Sprite
 	/// @DnDVersion : 1
-	/// @DnDHash : 1A5EABCA
-	/// @DnDParent : 43309EF1
+	/// @DnDHash : 6D00EA10
+	/// @DnDParent : 1F65B674
 	/// @DnDArgument : "spriteind" "Jump"
 	/// @DnDSaveInfo : "spriteind" "aa3edf12-4a3c-4d6d-9c4c-e5ae6ddbb147"
 	sprite_index = Jump;
