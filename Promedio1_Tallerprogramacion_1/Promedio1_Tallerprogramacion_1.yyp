@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "0d41a789-63ec-45a0-8b4d-ac88205d9c45",
+            "Value": {
+                "id": "ae5163d6-326b-4144-a426-083f71f9a38e",
+                "resourcePath": "sounds\\ShootingSoundEffect\\ShootingSoundEffect.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "1667042d-859e-4226-84e1-8285fa9dbbd6",
             "Value": {
                 "id": "917ca078-035b-49cb-9c79-b28dc791b93e",
@@ -95,11 +103,11 @@
             }
         },
         {
-            "Key": "2ffbae0d-9753-41db-a0fb-d86030437f64",
+            "Key": "349803e4-7f56-4cfe-812b-a8ee0d020c33",
             "Value": {
-                "id": "3159ccd6-23cf-4ef1-a201-3660d9bcaf17",
-                "resourcePath": "objects\\hitbox\\hitbox.yy",
-                "resourceType": "GMObject"
+                "id": "6756fc01-b7d8-4432-8ae9-3622e906138c",
+                "resourcePath": "sprites\\sprite12\\sprite12.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -151,6 +159,14 @@
             }
         },
         {
+            "Key": "8871d2b0-12e9-4848-98f0-941493239b30",
+            "Value": {
+                "id": "9c6c1409-0636-4052-b177-3f4f1099789a",
+                "resourcePath": "sounds\\Super_C___Gates_of_Fort_Fire_Storm__Stage_1_\\Super_C___Gates_of_Fort_Fire_Storm__Stage_1_.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "92004f39-8785-46e9-91da-7d1c44b87efa",
             "Value": {
                 "id": "dcd5e5b6-dd67-4f5d-a60c-2b81ddc30718",
@@ -164,6 +180,14 @@
                 "id": "2cb2e11b-2bb7-4661-8829-f0b0da7857a6",
                 "resourcePath": "views\\97154b67-2168-4e1c-a53b-4068c9ba38bd.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9f446a3f-62db-4094-8058-8d3d1f43adc7",
+            "Value": {
+                "id": "98fab387-9742-410c-9944-a27f9b77a47b",
+                "resourcePath": "sprites\\sprite11\\sprite11.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -207,11 +231,43 @@
             }
         },
         {
+            "Key": "bed36461-baa0-4050-a34c-36164edd6f8a",
+            "Value": {
+                "id": "fd58948b-8736-48b4-8c57-a57dc9da0ec7",
+                "resourcePath": "objects\\MusicStage1\\MusicStage1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c103200d-22f6-4d1f-8aec-b4b7cb9fa914",
+            "Value": {
+                "id": "3f45efcb-eff4-425f-9723-eec67c598df4",
+                "resourcePath": "objects\\MusicStage2\\MusicStage2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c4f5994d-09bf-47cc-bf47-77570ad3d9e9",
             "Value": {
                 "id": "ef754f7c-54d9-47f7-8f36-419ec6088340",
                 "resourcePath": "views\\c4f5994d-09bf-47cc-bf47-77570ad3d9e9.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c7a0d8c5-06f0-4ba8-bc6b-c2031c7c0043",
+            "Value": {
+                "id": "98b56779-f730-400d-a4c6-428801759da5",
+                "resourcePath": "objects\\object5\\object5.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "cc7823b0-ef4f-41c5-9823-2379ee162183",
+            "Value": {
+                "id": "8e1f4524-2c7b-4529-b412-26d8dc3a2d77",
+                "resourcePath": "rooms\\room4\\room4.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -287,6 +343,14 @@
             }
         },
         {
+            "Key": "f3098918-9bf7-4bc3-bc7a-183e9c23ba6b",
+            "Value": {
+                "id": "828e9c4e-3e2b-4fb5-9cca-97dfd27cee06",
+                "resourcePath": "objects\\MusicStage3\\MusicStage3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "f7ca984d-3a42-48da-ae4f-46f123b004ef",
             "Value": {
                 "id": "1b1d5281-567d-4599-86b7-021d1ecb6373",
@@ -300,6 +364,14 @@
                 "id": "430be52a-3072-4b9c-921e-83915e28fadd",
                 "resourcePath": "sprites\\sprite8\\sprite8.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fc9dcd8e-06e7-4d4d-8e95-1cc45c7e37d5",
+            "Value": {
+                "id": "cb69fa8f-6c80-482e-acf1-4438dd417eb6",
+                "resourcePath": "sounds\\Super_C___Tropics_of_Torture__Stage_3_\\Super_C___Tropics_of_Torture__Stage_3_.yy",
+                "resourceType": "GMSound"
             }
         },
         {

@@ -1,3 +1,11 @@
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 3BABED93
+/// @DnDArgument : "target" "sound"
+/// @DnDArgument : "soundid" "ShootingSoundEffect"
+/// @DnDSaveInfo : "soundid" "0d41a789-63ec-45a0-8b4d-ac88205d9c45"
+sound = audio_play_sound(ShootingSoundEffect, 0, 0);
+
 /// @DnDAction : YoYo Games.Instances.Create_Instance
 /// @DnDVersion : 1
 /// @DnDHash : 4403A6B7
